@@ -1,4 +1,3 @@
 <plugins>
-    <plugin id="me.serce.artifactgen" url="https://github.com/SerCeMan/cplugins/raw/master/ArtifactGen-0.1-SNAPSHOT.zip" version="0.1"/>
-    <plugin id="me.serce.datanucleus" url="https://github.com/SerCeMan/cplugins/raw/master/DatanucleusIntellijPlugin-0.1-SNAPSHOT.zip" version="0.1"/>
+    <plugin id="me.serce.artifactgen" url="https://github.com/SerCeMan/cplugins/raw/master/ArtifactGen-0.1.zip" version="0.1"/>
 </plugins>
